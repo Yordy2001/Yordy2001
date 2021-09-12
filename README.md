@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- ### Hi there, I'm Yordy 👋👨‍💻 -->
 
-<!--
-**Yordy2001/Yordy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yordy!;I'm+a+Web+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on CheckPoint...
+- 🌱 I’m currently learning redux ...
+- 🤔 I’m looking for help with redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Yordy = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Django, Styled-Components],
+  tecnologies: [vsCode, Heroku, strapi, Git, Github],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
+```
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yordy2001&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
