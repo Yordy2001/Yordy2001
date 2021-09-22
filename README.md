@@ -18,4 +18,4 @@ const Yordy = {
 ```
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yordy2001&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yordy2001&theme=gruvbox" alt="Yordy2001"  /></p>
