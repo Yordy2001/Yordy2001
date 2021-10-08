@@ -16,6 +16,3 @@ const Yordy = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yordy2001&theme=gruvbox" alt="Yordy2001"  /></p>
