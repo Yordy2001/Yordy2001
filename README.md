@@ -42,6 +42,3 @@ const Yordy = {
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
